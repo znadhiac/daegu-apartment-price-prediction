@@ -149,4 +149,8 @@ Translates model performance into financial value by comparing predictive accura
 - **XGBoost:** Gradient boosting implementation used as the final regression model.  
 - **Matplotlib and Seaborn:** Data visualization and diagnostic plots (residuals, feature importance).  
 - **SHAP:** Model interpretability and feature impact analysis.  
-- **Jupyter Notebook:** Interactive development and documentation environment.  
+- **Jupyter Notebook:** Interactive development and documentation environment.
+- **Tableau:** Interactive dashboard development and visualization.  
+  [Daegu Apartment Price Dashboard](https://public.tableau.com/views/DaeguApartmentPriceDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+  ![Daegu Apartment Price Dashboard](daegu_apartment_price_dashboard.png)
