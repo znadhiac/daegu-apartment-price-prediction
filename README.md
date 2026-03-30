@@ -153,4 +153,4 @@ Translates model performance into financial value by comparing predictive accura
 - **Tableau:** Interactive dashboard development and visualization.  
   [Daegu Apartment Price Dashboard](https://public.tableau.com/views/DaeguApartmentPriceDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-  ![Daegu Apartment Price Dashboard](daegu_apartment_price.png)
+  ![Daegu Apartment Price Dashboard](daegu_apartment_price_dashboard.png)
