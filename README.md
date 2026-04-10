@@ -1,4 +1,4 @@
-# A MACHINE LEARNING APPROACH FOR APARTMENT PRICE MODELING AND OPTIMIZATION IN DAEGU
+# DAEGU APARTMENT PRICE PREDICTION AND OPTIMIZATION  
 This project develops a machine learning regression model to support apartment owners in Daegu, South Korea, by predicting optimal listing prices based on apartment transaction data from 1978 to 2015. Using features such as hallway type, size, year built, proximity to subway stations, and nearby public facilities, the study begins with thorough data cleaning, exploratory analysis, and preprocessing. Multiple regression models are benchmarked and optimized, with the best model selected through hyperparameter tuning and evaluated via test set metrics, residual diagnostics, and feature importance analysis. The final model offers a data-driven, interpretable tool for setting market-aligned apartment prices.
 
 ## I. BUSINESS UNDERSTANDING
